@@ -1,0 +1,118 @@
+body{
+    background: #4C6C5F;
+    font-size: 15px;
+    color: black;
+    line-height: 1.6em;
+    font-weight: 300;
+    font-family: open Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: rgb(139, 0, 0);
+    font-size: 22px;
+}
+img#tof{
+    width: 180px;
+    border: 2px solid rgb(15, 139, 221);
+    border-radius: 50%;
+    border-image-slice: 200px;
+    margin: 20px 0px 0px 90px;
+}
+
+img#adu{
+    width:190px;
+    height: 70px;
+    margin-right: 10px;
+}
+
+img#ylb{
+    width:160px;
+    height: 160px;
+    margin-right: 10px;
+}
+
+img#talks{
+    width:190px;
+    height: 85px;
+    margin-right: 10px;
+}
+
+h4{
+    font-size: 18px;
+    font-weight: 300;
+    color: rgb(29, 29, 143)
+}
+
+p{
+    text-align: justify;
+}
+
+a{
+    color: aquamarine;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a.fa:hover{
+    color: rgb(19, 19, 206);
+}
+
+a.tw:hover{
+    color: dodgerblue;
+}
+
+a.in:hover{
+    color: rgba(21, 97, 173, 0.829);
+}
+
+a.ytb:hover{
+    color: rgba(246, 63, 7, 0.945);
+}
+
+.card{
+    background: #FFFFFF;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.btn-blue{
+    background-color: brown;
+    color: aliceblue;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+div.card.text-center1{
+    width: 405px;
+    margin-top: 20px;
+}
+
+div.card.text-center2{
+    width: 405px;
+}
+
+div.card.text-center3{
+    margin-left: 500px;
+    margin-top: -1060px;
+    margin-bottom: 90px;
+}
+
+.list-inline{
+    padding-left: 0;
+}
+
+.list-inline li{
+    display: inline-block;
+    padding: 20px;
+}
+
+div#wrapper{
+    background-color: rgba(255, 235, 205, 0.377);
+    padding: 100px 150px 90px 150px;
+}
